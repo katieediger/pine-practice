@@ -1,0 +1,11 @@
+puts 'Hello, world!'
+puts ''
+puts 'Good-bye.'
+puts ''
+puts 'I like ' + 'apple pie'
+puts 'I like' + ' apple pie'
+puts 'moo' * 3
+puts 'You\'re swell!'
+puts 'backslash at the end of a string:   \\'
+puts 'up\\down'
+puts 'up\down'
