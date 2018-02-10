@@ -1,4 +1,4 @@
-puts 'This program will sort words into an alphabetical list'
+puts 'This program will sort words into an alphabetical list. Enter one per line please.'
 words = [ ]
 while true
   word = gets.chomp
